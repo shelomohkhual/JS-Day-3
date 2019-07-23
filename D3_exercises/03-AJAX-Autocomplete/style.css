@@ -3,6 +3,7 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
+  background-color: rgb(230, 230, 230);
 }
 
 #container {
@@ -16,4 +17,5 @@ body {
   line-height: 32px;
   font-size: 24px;
   padding: 0 4px;
+  border: 1px solid black;
 }
